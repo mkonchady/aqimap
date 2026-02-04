@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="244.99646mm"
+   height="165.65959mm"
+   viewBox="0 0 244.99646 165.65959"
+   version="1.1"
+   id="svg110000"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="ploty.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview110002"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.55945567"
+     inkscape:cx="746.2611"
+     inkscape:cy="277.94874"
+     inkscape:window-width="1542"
+     inkscape:window-height="836"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs109997" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.93648572,-74.655871)">
+    <g
+       id="g109995"
+       transform="matrix(0.26458333,0,0,0.26458333,0.93648569,74.655871)">
+      <g
+         fill="none"
+         color="#808080"
+         stroke="currentColor"
+         stroke-width="0.5"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         id="g44"
+         transform="translate(23.64755,12.985275)">
+        <path
+           stroke="#808080"
+           stroke-dasharray="2, 4"
+           class="gridline"
+           d="M 60.5,552 H 891.49"
+           id="path42" />
+      </g>
+      <g
+         fill="none"
+         color="#000000"
+         stroke="currentColor"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         id="g56"
+         transform="translate(23.64755,12.985275)">
+        <path
+           stroke="#000000"
+           d="M 60.5,552 H 68 m 823.49,0 h -7.5"
+           id="path48" />
+        <g
+           transform="translate(53.5,555.25)"
+           stroke="none"
+           fill="#000000"
+           font-family="Arial"
+           font-size="10px"
+           text-anchor="end"
+           id="g54">
+          <text
+             id="text52"
+             style="font-size:21.3333px"><tspan
+               font-family="Arial"
+               id="tspan50"
+               style="font-size:21.3333px">0</tspan></text>
+        </g>
+      </g>
+      <g
+         fill="none"
+         color="#808080"
+         stroke="currentColor"
+         stroke-width="0.5"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         id="g64"
+         transform="translate(23.64755,12.985275)">
+        <path
+           stroke="#808080"
+           stroke-dasharray="2, 4"
+           class="gridline"
+           d="M 60.5,439.34 H 891.49"
+           id="path62" />
+      </g>
+      <path
+         stroke="#000000"
+         d="m 84.14755,452.32527 h 7.5 m 823.49,0 h -7.5"
+         id="path68"
+         style="color:#000000;fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter" />
+      <g
+         transform="translate(77.14755,455.57527)"
+         stroke="none"
+         fill="#000000"
+         font-family="Arial"
+         font-size="10px"
+         text-anchor="end"
+         id="g74"
+         style="color:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter">
+        <text
+           id="text72"
+           style="font-size:21.3333px">50</text>
+      </g>
+      <g
+         fill="none"
+         color="#808080"
+         stroke="currentColor"
+         stroke-width="0.5"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         id="g84"
+         transform="translate(23.64755,12.985275)">
+        <path
+           stroke="#808080"
+           stroke-dasharray="2, 4"
+           class="gridline"
+           d="M 60.5,326.67 H 891.49"
+           id="path82" />
+      </g>
+      <path
+         stroke="#000000"
+         d="m 84.14755,339.65528 h 7.5 m 823.49,0 h -7.5"
+         id="path88"
+         style="color:#000000;fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter" />
+      <g
+         transform="translate(77.14755,342.90528)"
+         stroke="none"
+         fill="#000000"
+         font-family="Arial"
+         font-size="10px"
+         text-anchor="end"
+         id="g94"
+         style="color:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter">
+        <text
+           id="text92"
+           style="font-size:21.3333px"><tspan
+             font-family="Arial"
+             id="tspan90"
+             style="font-size:21.3333px">100</tspan></text>
+      </g>
+      <g
+         fill="none"
+         color="#808080"
+         stroke="currentColor"
+         stroke-width="0.5"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         id="g104"
+         transform="translate(23.64755,12.985275)">
+        <path
+           stroke="#808080"
+           stroke-dasharray="2, 4"
+           class="gridline"
+           d="M 60.5,214.01 H 891.49"
+           id="path102" />
+      </g>
+      <path
+         stroke="#000000"
+         d="m 84.14755,226.99527 h 7.5 m 823.49,0 h -7.5"
+         id="path108"
+         style="color:#000000;fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter" />
+      <g
+         transform="translate(77.14755,230.24527)"
+         stroke="none"
+         fill="#000000"
+         font-family="Arial"
+         font-size="10px"
+         text-anchor="end"
+         id="g114"
+         style="color:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter">
+        <text
+           id="text112"
+           style="font-size:21.3333px">150</text>
+      </g>
+      <g
+         fill="none"
+         color="#808080"
+         stroke="currentColor"
+         stroke-width="0.5"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         id="g124"
+         transform="translate(23.64755,12.985275)">
+        <path
+           stroke="#808080"
+           stroke-dasharray="2, 4"
+           class="gridline"
+           d="M 60.5,101.34 H 891.49"
+           id="path122" />
+      </g>
+      <path
+         stroke="#000000"
+         d="m 84.14755,114.32528 h 7.5 m 823.49,0 h -7.5"
+         id="path128"
+         style="color:#000000;fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter" />
+      <g
+         transform="translate(77.14755,117.57528)"
+         stroke="none"
+         fill="#000000"
+         font-family="Arial"
+         font-size="10px"
+         text-anchor="end"
+         id="g134"
+         style="color:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter">
+        <text
+           id="text132"
+           style="font-size:21.3333px"><tspan
+             font-family="Arial"
+             id="tspan130"
+             style="font-size:21.3333px">200</tspan></text>
+      </g>
+      <g
+         fill="none"
+         color="#808080"
+         stroke="currentColor"
+         stroke-width="0.5"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         id="g144"
+         transform="translate(23.64755,12.985275)">
+        <path
+           stroke="#808080"
+           stroke-dasharray="2, 4"
+           class="gridline"
+           d="M 159.29,552 V 45.01"
+           id="path142" />
+      </g>
+      <path
+         stroke="#000000"
+         d="m 182.93755,564.98527 v -7.5 m 0,-499.489995 v 7.5"
+         id="path148"
+         style="color:#000000;fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter" />
+      <g
+         transform="translate(182.93755,583.23527)"
+         stroke="none"
+         fill="#000000"
+         font-family="Arial"
+         font-size="10px"
+         text-anchor="middle"
+         id="g154"
+         style="color:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter">
+        <text
+           id="text152"
+           style="font-size:21.3333px"><tspan
+             font-family="Arial"
+             id="tspan150"
+             style="font-size:21.3333px">3</tspan></text>
+      </g>
+      <g
+         fill="none"
+         color="#808080"
+         stroke="currentColor"
+         stroke-width="0.5"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         id="g164"
+         transform="translate(23.64755,12.985275)">
+        <path
+           stroke="#808080"
+           stroke-dasharray="2, 4"
+           class="gridline"
+           d="M 263.89,552 V 45.01"
+           id="path162" />
+      </g>
+      <path
+         stroke="#000000"
+         d="m 287.53755,564.98527 v -7.5 m 0,-499.489995 v 7.5"
+         id="path168"
+         style="color:#000000;fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter" />
+      <g
+         transform="translate(287.53755,583.23527)"
+         stroke="none"
+         fill="#000000"
+         font-family="Arial"
+         font-size="10px"
+         text-anchor="middle"
+         id="g174"
+         style="color:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter">
+        <text
+           id="text172"
+           style="font-size:21.3333px"><tspan
+             font-family="Arial"
+             id="tspan170"
+             style="font-size:21.3333px">6</tspan></text>
+      </g>
+      <g
+         fill="none"
+         color="#808080"
+         stroke="currentColor"
+         stroke-width="0.5"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         id="g184"
+         transform="translate(23.64755,12.985275)">
+        <path
+           stroke="#808080"
+           stroke-dasharray="2, 4"
+           class="gridline"
+           d="M 368.49,552 V 45.01"
+           id="path182" />
+      </g>
+      <path
+         stroke="#000000"
+         d="m 392.13755,564.98527 v -7.5 m 0,-499.489995 v 7.5"
+         id="path188"
+         style="color:#000000;fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter" />
+      <g
+         transform="translate(392.13755,583.23527)"
+         stroke="none"
+         fill="#000000"
+         font-family="Arial"
+         font-size="10px"
+         text-anchor="middle"
+         id="g194"
+         style="color:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter">
+        <text
+           id="text192"
+           style="font-size:21.3333px"><tspan
+             font-family="Arial"
+             id="tspan190"
+             style="font-size:21.3333px">9</tspan></text>
+      </g>
+      <g
+         fill="none"
+         color="#808080"
+         stroke="currentColor"
+         stroke-width="0.5"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         id="g204"
+         transform="translate(23.64755,12.985275)">
+        <path
+           stroke="#808080"
+           stroke-dasharray="2, 4"
+           class="gridline"
+           d="M 473.09,552 V 45.01"
+           id="path202" />
+      </g>
+      <path
+         stroke="#000000"
+         d="m 496.73755,564.98527 v -7.5 m 0,-499.489995 v 7.5"
+         id="path208"
+         style="color:#000000;fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter" />
+      <g
+         transform="translate(496.73755,583.23527)"
+         stroke="none"
+         fill="#000000"
+         font-family="Arial"
+         font-size="10px"
+         text-anchor="middle"
+         id="g214"
+         style="color:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter">
+        <text
+           id="text212"
+           style="font-size:21.3333px">12</text>
+      </g>
+      <g
+         fill="none"
+         color="#808080"
+         stroke="currentColor"
+         stroke-width="0.5"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         id="g224"
+         transform="translate(23.64755,12.985275)">
+        <path
+           stroke="#808080"
+           stroke-dasharray="2, 4"
+           class="gridline"
+           d="M 577.69,552 V 45.01"
+           id="path222" />
+      </g>
+      <path
+         stroke="#000000"
+         d="m 601.33755,564.98527 v -7.5 m 0,-499.489995 v 7.5"
+         id="path228"
+         style="color:#000000;fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter" />
+      <g
+         transform="translate(601.33755,583.23527)"
+         stroke="none"
+         fill="#000000"
+         font-family="Arial"
+         font-size="10px"
+         text-anchor="middle"
+         id="g234"
+         style="color:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter">
+        <text
+           id="text232"
+           style="font-size:21.3333px">15</text>
+      </g>
+      <g
+         fill="none"
+         color="#808080"
+         stroke="currentColor"
+         stroke-width="0.5"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         id="g244"
+         transform="translate(23.64755,12.985275)">
+        <path
+           stroke="#808080"
+           stroke-dasharray="2, 4"
+           class="gridline"
+           d="M 682.29,552 V 45.01"
+           id="path242" />
+      </g>
+      <path
+         stroke="#000000"
+         d="m 705.93755,564.98527 v -7.5 m 0,-499.489995 v 7.5"
+         id="path248"
+         style="color:#000000;fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter" />
+      <g
+         transform="translate(705.93755,583.23527)"
+         stroke="none"
+         fill="#000000"
+         font-family="Arial"
+         font-size="10px"
+         text-anchor="middle"
+         id="g254"
+         style="color:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter">
+        <text
+           id="text252"
+           style="font-size:21.3333px">18</text>
+      </g>
+      <g
+         fill="none"
+         color="#808080"
+         stroke="currentColor"
+         stroke-width="0.5"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         id="g264"
+         transform="translate(23.64755,12.985275)">
+        <path
+           stroke="#808080"
+           stroke-dasharray="2, 4"
+           class="gridline"
+           d="M 786.89,552 V 45.01"
+           id="path262" />
+      </g>
+      <path
+         stroke="#000000"
+         d="m 810.53755,564.98527 v -7.5 m 0,-499.489995 v 7.5"
+         id="path268"
+         style="color:#000000;fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter" />
+      <g
+         transform="translate(810.53755,583.23527)"
+         stroke="none"
+         fill="#000000"
+         font-family="Arial"
+         font-size="10px"
+         text-anchor="middle"
+         id="g274"
+         style="color:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter">
+        <text
+           id="text272"
+           style="font-size:21.3333px"><tspan
+             font-family="Arial"
+             id="tspan270"
+             style="font-size:21.3333px">21</tspan></text>
+      </g>
+      <g
+         fill="none"
+         color="#808080"
+         stroke="currentColor"
+         stroke-width="0.5"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         id="g284"
+         transform="translate(23.64755,12.985275)">
+        <path
+           stroke="#808080"
+           stroke-dasharray="2, 4"
+           class="gridline"
+           d="M 891.49,552 V 45.01"
+           id="path282" />
+      </g>
+      <path
+         stroke="#000000"
+         d="m 915.13755,564.98527 v -7.5 m 0,-499.489995 v 7.5"
+         id="path288"
+         style="color:#000000;fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter" />
+      <g
+         transform="translate(915.13755,583.23527)"
+         stroke="none"
+         fill="#000000"
+         font-family="Arial"
+         font-size="10px"
+         text-anchor="middle"
+         id="g294"
+         style="color:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter">
+        <text
+           id="text292"
+           style="font-size:21.3333px">24</text>
+      </g>
+      <g
+         fill="none"
+         color="#000000"
+         stroke="currentColor"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         id="g302"
+         transform="translate(23.64755,12.985275)">
+        <path
+           stroke="#000000"
+           d="M 60.5,45.01 V 552 H 891.49 V 45.01 Z"
+           id="path300" />
+      </g>
+      <g
+         fill="none"
+         color="#000000"
+         stroke="currentColor"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         id="g310"
+         transform="translate(3.427108,-8.757858)">
+        <g
+           transform="rotate(-90,157.255,141.255)"
+           stroke="none"
+           fill="#000000"
+           font-family="Arial"
+           font-size="10px"
+           text-anchor="middle"
+           id="g308">
+          <text
+             id="text306"
+             style="font-size:26.6667px">AQI</text>
+        </g>
+      </g>
+      <g
+         fill="none"
+         color="#000000"
+         stroke="currentColor"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         id="g318"
+         transform="translate(1.970941,27.753026)">
+        <g
+           transform="translate(475.99,592.75)"
+           stroke="none"
+           fill="#000000"
+           font-family="Arial"
+           font-size="10px"
+           text-anchor="middle"
+           id="g316">
+          <text
+             id="text314"
+             style="font-size:26.6667px">Time (hours)</text>
+        </g>
+      </g>
+      <g
+         id="gnuplot_plot_1"
+         transform="translate(23.64755,12.985275)">
+        <title
+           id="title326">&quot;aqi_common.dat&quot; using ($2/3600):3</title>
+        <g
+           fill="none"
+           color="#ffffff"
+           stroke="#000000"
+           stroke-width="2"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           id="g328" />
+        <g
+           fill="none"
+           color="#000000"
+           stroke="currentColor"
+           stroke-width="2"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           id="g332">
+          <path
+             stroke="#1f77b4"
+             d="m 60.5,319.91 8.39,-25.63 8.4,-24.96 8.39,-24.14 8.4,-22.58 8.39,-20.76 8.39,-19.04 8.4,-17.4 8.39,-15.57 8.39,-13.21 8.4,-10.08 8.39,-6.19 8.4,-1.91 8.39,2.17 8.39,5.41 8.4,7.47 8.39,8.3 8.4,8.1 8.39,7.22 8.39,5.98 8.4,4.6 8.39,3.19 8.39,1.79 8.4,0.38 8.39,-1.07 8.4,-2.52 8.39,-3.92 8.39,-5.19 8.4,-6.23 8.39,-6.91 8.4,-7.13 8.39,-6.77 8.39,-5.75 8.4,-4.02 8.39,-1.62 8.39,1.31 8.4,4.62 8.39,8.03 8.4,11.27 8.39,14.1 8.39,16.37 8.4,17.99 8.39,19.01 8.4,19.54 8.39,19.69 8.39,19.56 8.4,19.23 8.39,18.69 8.39,17.96 8.4,16.99 8.39,15.78 8.4,14.34 8.39,12.73 8.39,10.96 8.4,9.12 8.39,7.22 8.39,5.37 8.4,3.57 8.39,1.9 8.4,0.41 8.39,-0.87 8.39,-1.88 8.4,-2.57 8.39,-2.97 8.4,-3.05 8.39,-2.87 8.39,-2.47 8.4,-1.94 8.39,-1.33 8.39,-0.79 8.4,-0.4 8.39,-0.3 8.4,-0.56 8.39,-1.23 8.39,-2.3 8.4,-3.67 8.39,-5.17 8.4,-6.58 8.39,-7.66 8.39,-8.22 8.4,-8.14 8.39,-7.37 8.39,-5.97 8.4,-4.07 8.39,-1.81 8.4,0.56 8.39,2.88 8.39,4.98 8.4,6.74 8.39,8.12 8.4,9.04 8.39,9.52 8.39,9.59 8.4,9.33 8.39,8.82 8.39,8.1 8.4,7.14 8.39,6.03 8.4,5.14 8.39,4.36"
+             id="path330" />
+        </g>
+      </g>
+      <g
+         id="gnuplot_plot_2"
+         transform="translate(23.64755,12.985275)">
+        <title
+           id="title335">&quot;aqi_common.dat&quot; using ($2/3600):4</title>
+        <g
+           fill="none"
+           color="#000000"
+           stroke="currentColor"
+           stroke-width="2"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           id="g339">
+          <path
+             stroke="#d62728"
+             d="m 60.5,202.74 8.39,-37.9 8.4,-24.81 8.39,-6.51 8.4,-4.14 8.39,-8.05 8.39,-8.37 8.4,-4.47 8.39,0.08 8.39,3.05 8.4,4.45 8.39,4.89 8.4,4.62 8.39,3.6 8.39,1.94 8.4,0.09 8.39,-1.31 8.4,-1.89 8.39,-1.63 8.39,-0.88 8.4,-0.16 8.39,0.12 8.39,-0.21 8.4,-1 8.39,-1.97 8.4,-2.7 8.39,-2.87 8.39,-2.36 8.4,-1.18 8.39,0.41 8.4,2.12 8.39,3.69 8.39,4.92 8.4,5.83 8.39,6.61 8.39,7.54 8.4,8.88 8.39,10.79 8.4,13.3 8.39,16.2 8.39,19.14 8.4,21.74 8.39,23.6 8.4,24.41 8.39,24.08 8.39,22.58 8.4,20.12 8.39,16.96 8.39,13.42 8.4,9.84 8.39,6.5 8.4,3.69 8.39,1.53 8.39,0.13 8.4,-0.52 8.39,-0.54 8.39,-0.09 8.4,0.64 8.39,1.46 8.4,2.18 8.39,2.76 8.39,3.16 8.4,3.39 8.39,3.52 8.4,3.63 8.39,3.7 8.39,3.72 8.4,3.66 8.39,3.41 8.39,2.94 8.4,2.2 8.39,1.18 8.4,-0.02 8.39,-1.36 8.39,-2.73 8.4,-4.05 8.39,-5.23 8.4,-6.26 8.39,-7.09 8.39,-7.7 8.4,-8.1 8.39,-8.21 8.39,-8 8.4,-7.4 8.39,-6.42 8.4,-5.12 8.39,-3.63 8.39,-2.1 8.4,-0.64 8.39,0.66 8.4,1.73 8.39,2.51 8.39,3.08 8.4,3.4 8.39,3.24 8.39,1.99 8.4,-0.72 8.39,-4.32 8.4,-7.94 8.39,-11.97"
+             id="path337" />
+        </g>
+      </g>
+      <g
+         id="g366"
+         transform="translate(-376.58881,64.532843)">
+        <title
+           id="title352">&quot;aqi_common.dat&quot; using ($2/3600):3</title>
+        <g
+           fill="none"
+           color="#ffffff"
+           stroke="#000000"
+           stroke-width="2"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           id="g354" />
+        <g
+           fill="none"
+           color="#000000"
+           stroke="currentColor"
+           stroke-width="2"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           id="g360">
+          <g
+             transform="translate(1143.49,55.76)"
+             stroke="none"
+             fill="#000000"
+             font-family="Arial"
+             font-size="10px"
+             text-anchor="end"
+             id="g358">
+            <text
+               id="text356"
+               style="font-size:21.3333px">Hebbal Station</text>
+          </g>
+        </g>
+        <g
+           fill="none"
+           color="#000000"
+           stroke="currentColor"
+           stroke-width="2"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           id="g364">
+          <path
+             stroke="#1f77b4"
+             d="m 1150.49,52.51 h 35.5"
+             id="path362" />
+        </g>
+      </g>
+      <g
+         id="g380"
+         transform="translate(-376.65973,81.659392)">
+        <title
+           id="title368">&quot;aqi_common.dat&quot; using ($2/3600):4</title>
+        <g
+           fill="none"
+           color="#000000"
+           stroke="currentColor"
+           stroke-width="2"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           id="g374">
+          <g
+             transform="translate(1143.49,70.76)"
+             stroke="none"
+             fill="#000000"
+             font-family="Arial"
+             font-size="10px"
+             text-anchor="end"
+             id="g372">
+            <text
+               id="text370"
+               style="font-size:21.3333px">Temtop Device</text>
+          </g>
+        </g>
+        <g
+           fill="none"
+           color="#000000"
+           stroke="currentColor"
+           stroke-width="2"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           id="g378">
+          <path
+             stroke="#d62728"
+             d="m 1150.49,67.51 h 35.5"
+             id="path376" />
+        </g>
+      </g>
+      <g
+         fill="none"
+         color="#000000"
+         stroke="currentColor"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         id="g388"
+         transform="translate(23.64755,12.985275)">
+        <path
+           stroke="#000000"
+           d="M 60.5,45.01 V 552 H 891.49 V 45.01 Z"
+           id="path386" />
+      </g>
+      <g
+         fill="none"
+         color="#000000"
+         stroke="currentColor"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         id="g396"
+         transform="translate(23.64755,12.985275)">
+        <g
+           transform="translate(475.99,25.76)"
+           stroke="none"
+           fill="#000000"
+           font-family="Arial"
+           font-size="10px"
+           text-anchor="middle"
+           id="g394">
+          <text
+             id="text392"
+             style="font-size:32px"
+             x="18.821228"
+             y="-15.432775">AQI vs. Time (hours) for January 31st, 2026</text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
